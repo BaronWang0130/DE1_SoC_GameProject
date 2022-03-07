@@ -1,5 +1,5 @@
 # DE1_SoC_GameProject
-Here is the code of running airplane game project. 
+The project is finished by the two members who are Jintao Xu and Hongliang Wang(I). Jintao helped upload the code to Github. Here is the example of running airplane game project. 
 
 <img src="./img/1.PNG" />
 
